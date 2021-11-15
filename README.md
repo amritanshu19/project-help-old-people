@@ -51,3 +51,5 @@ Yes, I have tested the prototype and it meets the proposed criterias. It is able
 decisions based upon predefined algorithms and is able to fasttrack the response of
 emergency services/relatives in case of an emergency with an elder. Hence, it can prove
 quite crucial in saving thousands of precious lives.
+
+follow me on twitter: https://twitter.com/amritanshu1937 , Linkedin: https://www.linkedin.com/in/amritanshu-raj-42311a168/

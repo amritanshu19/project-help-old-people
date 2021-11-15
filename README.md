@@ -1,5 +1,5 @@
 # project-help-old-people
-1.	Name of Project: Developing an algorithm to identify old people living alone when require help
+Name of Project: Developing an algorithm to identify old people living alone when require help
 The final proposed code is written in C language & uses a series of logic based tests/ algorithms to test the seriousness of the situation and if it detects anything is fishy it alerts the primary contact/the emergency services in case primary contact is unable to respond on time. This project can add a group of values like security , health , care and assurance in the life of it’s elderly users. This programming project will not only serve it’s elder users facing health problems only but can also be used in a variety of other areas for eg. in ensuring the security and well being of children living alone. The programme initially takes input the general information of the primary contact(the person who is going to be contacted initially in case of an emergency) and stores it in a struct data type. 
 It has 4 data types as:
    char first_name[100];     //first name
@@ -25,6 +25,7 @@ orientation of the phone. This makes it a lot cost efficient and user friendly/ 
 User convenience. 
 
 Logic Diagram: https://drive.google.com/file/d/1dXKT3laDIknr6dT16e8q_z17En0DOKAV/view?usp=sharing
+
 video presentation: https://drive.google.com/file/d/1S43uEYKF6f3z4DMbtZJoLv_t3tgwJAWJ/view?usp=sharing
 
 6.	What problems did you  encounter while working on the design idea and the project? How did you solve those problems? Are there any issues which remain unresolved? Write in detail.
